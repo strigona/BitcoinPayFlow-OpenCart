@@ -18,8 +18,6 @@ class bitcoinPayFlow {
         $this->_validateMethod($method);        
                             
         $url = $this->_buildUrl($method);
-
-        print_r($url);
         
         $options = $this->_buildParams($method , $params);
                 
