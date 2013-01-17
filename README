@@ -1,1 +1,5 @@
-Work in progress... feel free to make suggestions
+This project is still very much a work in progress. That being said, it was working last time I checked.
+
+When setting up your account on Bitcoin Pay Flow, your callback URL is <store URL>/index.php?route=payment/bitcoinpayflow/callback
+
+As always, feel free to make suggestions by creating an issue or send in a pull request.
